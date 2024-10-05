@@ -4,8 +4,8 @@ import Result from './components/Result';
 import questions from './data/questions';
 import analyzePersonality from './utils/analyzePersonality';
 
-const App = () => {
-  // ... (zbytek kódu App komponenty)
-};
+function App() {
+  // ... zbytek kódu
+}
 
 export default App;
